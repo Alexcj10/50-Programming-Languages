@@ -24,11 +24,11 @@
 20. [**Haskell**](Haskell.md): A purely functional, statically typed language that emphasizes conciseness, type safety, and laziness, often used in academia and for building robust, high-performance systems.
 21. [**Bash**](Bash.md): A Unix shell and command language used for automating tasks, scripting, and system administration.
 22. [**SQL**](SQL.md): A domain-specific language used for managing and manipulating relational databases.
-23. [**Visual-Basic-NET**](Visual-Basic-NET.md): A multi-paradigm, object-oriented language developed by Microsoft, primarily used for building Windows applications.
+23. [**Visual Basic.NET**](Visual-Basic-NET.md): A multi-paradigm, object-oriented language developed by Microsoft, primarily used for building Windows applications.
 24. [**Assembly**](Assembly.md): A low-level, machine-specific programming language that provides direct access to a computer's hardware.
 25. [**Apex**](Apex.md): A proprietary, object-oriented language developed by Salesforce, used for building custom applications on the Salesforce platform.
 26. [**MATLAB**](MATLAB.md): A high-level, numerical computing language and interactive environment, primarily used for scientific and engineering computations.
-27. [**Delphi-Object-Pascal**](Delphi-Object-Pascal.md): A structured, object-oriented language that is an extension of the original Pascal language, used for building Windows applications.
+27. [**Delphi/Object Pascal**](Delphi-Object-Pascal.md): A structured, object-oriented language that is an extension of the original Pascal language, used for building Windows applications.
 28. [**Fortran**](Fortran.md): A high-performance, compiled language primarily used for scientific and engineering applications, especially in the fields of numerical analysis and high-performance computing.
 29. [**TypeScript**](TypeScript.md): A statically typed superset of JavaScript that adds optional static typing and other modern features, often used for building large-scale, enterprise-level web applications.
 30. [**Scratch**](Scratch.md): A visual, block-based programming language designed for children and beginners to learn the fundamentals of programming.
@@ -37,7 +37,7 @@
 33. [**Crystal**](Crystal.md): A statically typed, compiled language that has a syntax similar to Ruby, designed to be fast, efficient, and maintainable.
 34. [**Tcl**](Tcl.md): A dynamic, interpreted language used for scripting, automation, and building graphical user interfaces.
 35. [**Solidity**](Solidity.md): A contract-oriented, statically typed language used for developing smart contracts on the Ethereum blockchain.
-36. [**Kotlin-Native**](Kotlin-Native.md): A statically typed, compiled language that allows for the development of native applications that can run on multiple platforms without a virtual machine.
+36. [**Kotlin Native**](Kotlin-Native.md): A statically typed, compiled language that allows for the development of native applications that can run on multiple platforms without a virtual machine.
 37. [**Elm**](Elm.md): A functional, statically typed language that compiles to JavaScript, primarily used for building web applications with a focus on simplicity and reliability.
 38. [**Nim**](Nim.md): A statically typed, compiled language that combines the features of Python, Ada, and Modula, known for its efficiency and flexibility.
 39. [**Verilog**](Verilog.md): A hardware description language used for the design and modeling of digital systems, particularly in the field of electronic design automation.
