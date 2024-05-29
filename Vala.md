@@ -29,3 +29,4 @@
 - [The Programmer's Hangout](https://discord.gg/programming)
 - [CodeSupport](https://discord.gg/CodeSupport)
 
+Feel free to join these communities to ask questions, share your projects, and learn from others!
