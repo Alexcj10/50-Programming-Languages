@@ -6,7 +6,7 @@
 2. [**JavaScript**](JavaScript.md): A client-side scripting language primarily used for building interactive web pages and single-page applications.
 3. [**Java**](Java.md): A statically typed, object-oriented language widely used for enterprise applications, Android development, and big data processing.
 4. [**C++**](C++.md): A powerful, low-level, and compiled language used for system programming, game development, and high-performance applications.
-5. [**C#**](C#.md): A modern, object-oriented language developed by Microsoft, primarily used for Windows applications, game development, and cloud services.
+5. [**C#**](cshrap.md): A modern, object-oriented language developed by Microsoft, primarily used for Windows applications, game development, and cloud services.
 6. [**PHP**](PHP.md): A server-side scripting language widely used for web development, especially in content management systems like WordPress.
 7. [**Ruby**](Ruby.md): A dynamic, object-oriented language used for building web applications (through the Ruby on Rails framework) and automation scripts.
 8. [**Swift**](Swift.md): A modern, safe, and fast language developed by Apple for building iOS, macOS, and other Apple platform applications.
@@ -46,7 +46,7 @@
 42. [**Reason**](Reason.md): A syntax extension for the OCaml language that provides a familiar JavaScript-like syntax, often used for building fast, type-safe, and reliable web applications.
 43. [**Ballerina**](Ballerina.md): A cloud-native, open-source programming language designed for writing networked applications, focusing on simplicity and concurrency.
 44. [**Jasmine**](Jasmine.md): A behavior-driven development (BDD) framework for testing JavaScript code, used for writing unit tests and integration tests.
-45. [**F#**](F#.md): A strongly-typed, functional-first language that runs on the .NET Framework, often used for data-intensive applications, scientific computing, and financial modeling.
+45. [**F#**](fshrap.md): A strongly-typed, functional-first language that runs on the .NET Framework, often used for data-intensive applications, scientific computing, and financial modeling.
 46. [**PureScript**](PureScript.md): A statically typed, functional programming language that compiles to JavaScript, used for building type-safe, scalable web applications.
 47. [**Vala**](Vala.md): An object-oriented language that provides a simple, C-like syntax and a comprehensive standard library, often used for building GNOME desktop applications.
 48. [**Racket**](Racket.md): A Lisp dialect that is used as a platform for programming languages, allowing the creation of domain-specific languages.
