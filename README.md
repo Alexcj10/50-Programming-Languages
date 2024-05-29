@@ -10,7 +10,7 @@
 6. [**PHP**](PHP): A server-side scripting language widely used for web development, especially in content management systems like WordPress.
 7. [**Ruby**](Ruby): A dynamic, object-oriented language used for building web applications (through the Ruby on Rails framework) and automation scripts.
 8. [**Swift**](Swift): A modern, safe, and fast language developed by Apple for building iOS, macOS, and other Apple platform applications.
-9. [**Go**](Go): A statically typed, compiled language designed for building efficient, scalable, and concurrent systems, especially in the areas of cloud, networking, and distributed systems.
+9. [**Go**](Go.md): A statically typed, compiled language designed for building efficient, scalable, and concurrent systems, especially in the areas of cloud, networking, and distributed systems.
 10. [**R**](R): A statistical computing and graphics language widely used for data analysis, visualization, and predictive modeling.
 11. [**Kotlin**](Kotlin): A concise, safe, and interoperable language that can be used for Android app development, server-side development, and data analysis.
 12. [**Objective-C**](Objective-C): The primary language used for developing software for Apple's macOS, iOS, and other platforms.
