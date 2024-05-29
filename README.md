@@ -28,7 +28,7 @@
 24. [**Assembly**](Assembly.md): A low-level, machine-specific programming language that provides direct access to a computer's hardware.
 25. [**Apex**](Apex.md): A proprietary, object-oriented language developed by Salesforce, used for building custom applications on the Salesforce platform.
 26. [**MATLAB**](MATLAB.md): A high-level, numerical computing language and interactive environment, primarily used for scientific and engineering computations.
-27. [**Delphi Object Pascal**](Delphi Object Pascal.md): A structured, object-oriented language that is an extension of the original Pascal language, used for building Windows applications.
+27. [**Delphi-Object-Pascal**](Delphi-Object-Pascal.md): A structured, object-oriented language that is an extension of the original Pascal language, used for building Windows applications.
 28. [**Fortran**](Fortran.md): A high-performance, compiled language primarily used for scientific and engineering applications, especially in the fields of numerical analysis and high-performance computing.
 29. [**TypeScript**](TypeScript.md): A statically typed superset of JavaScript that adds optional static typing and other modern features, often used for building large-scale, enterprise-level web applications.
 30. [**Scratch**](Scratch.md): A visual, block-based programming language designed for children and beginners to learn the fundamentals of programming.
