@@ -52,3 +52,16 @@
 48. [**Racket**](Racket.md): A Lisp dialect that is used as a platform for programming languages, allowing the creation of domain-specific languages.
 49. [**OCaml**](OCaml.md): A statically typed, functional programming language that emphasizes expressiveness, safety, and efficiency, used in academia and industry for a variety of applications.
 50. [**Scheme**](Scheme.md): A minimalist Lisp dialect known for its simplicity and elegance, often used in computer science education and as a foundation for other programming languages.
+
+## Getting Started
+Each language folder contains:
+- An introduction to the language
+- Learning resources (tutorials, books, websites)
+- Project ideas to get hands-on experience
+- Best practices, frameworks, and tools
+
+## Contributing
+We welcome contributions! Please read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
