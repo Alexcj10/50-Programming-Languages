@@ -24,7 +24,7 @@
 20. [**Haskell**](Haskell.md): A purely functional, statically typed language that emphasizes conciseness, type safety, and laziness, often used in academia and for building robust, high-performance systems.
 21. [**Bash**](Bash.md): A Unix shell and command language used for automating tasks, scripting, and system administration.
 22. [**SQL**](SQL.md): A domain-specific language used for managing and manipulating relational databases.
-23. [**vbnet**](vbnet.md): A multi-paradigm, object-oriented language developed by Microsoft, primarily used for building Windows applications.
+23. [**Visual-Basic-NET**](Visual-Basic-NET.md): A multi-paradigm, object-oriented language developed by Microsoft, primarily used for building Windows applications.
 24. [**Assembly**](Assembly.md): A low-level, machine-specific programming language that provides direct access to a computer's hardware.
 25. [**Apex**](Apex.md): A proprietary, object-oriented language developed by Salesforce, used for building custom applications on the Salesforce platform.
 26. [**MATLAB**](MATLAB.md): A high-level, numerical computing language and interactive environment, primarily used for scientific and engineering computations.
