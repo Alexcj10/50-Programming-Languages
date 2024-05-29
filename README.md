@@ -2,7 +2,7 @@
 
 "Welcome to the '50 Programming Languages' repository, your ultimate guide to the world's top 50 programming languages. This repository is designed to be a comprehensive resource for both beginners and experienced developers. Here, you'll find in-depth learning materials, tutorials, and project ideas for each language. Whether you're looking to start your coding journey or expand your existing knowledge, our curated content will help you master new languages and apply them to real-world projects. Dive in and discover the best practices, frameworks, and tools for each language, and get inspired by our collection of innovative project ideas to showcase your skills."
 
-1. **Python**: A high-level, interpreted, and versatile language used for web development, data analysis, machine learning, and more.
+1. [**Python**](Python): A high-level, interpreted, and versatile language used for web development, data analysis, machine learning, and more.
 2. **JavaScrip**t: A client-side scripting language primarily used for building interactive web pages and single-page applications.
 3. **Java**: A statically typed, object-oriented language widely used for enterprise applications, Android development, and big data processing.
 4. **C++**: A powerful, low-level, and compiled language used for system programming, game development, and high-performance applications.
