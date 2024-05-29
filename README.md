@@ -37,7 +37,7 @@
 33. [**Crystal**](Crystal.md): A statically typed, compiled language that has a syntax similar to Ruby, designed to be fast, efficient, and maintainable.
 34. [**Tcl**](Tcl.md): A dynamic, interpreted language used for scripting, automation, and building graphical user interfaces.
 35. [**Solidity**](Solidity.md): A contract-oriented, statically typed language used for developing smart contracts on the Ethereum blockchain.
-36. [**Kotlin Native**](Kotlin Native.md): A statically typed, compiled language that allows for the development of native applications that can run on multiple platforms without a virtual machine.
+36. [**Kotlin-Native**](Kotlin-Native.md): A statically typed, compiled language that allows for the development of native applications that can run on multiple platforms without a virtual machine.
 37. [**Elm**](Elm.md): A functional, statically typed language that compiles to JavaScript, primarily used for building web applications with a focus on simplicity and reliability.
 38. [**Nim**](Nim.md): A statically typed, compiled language that combines the features of Python, Ada, and Modula, known for its efficiency and flexibility.
 39. [**Verilog**](Verilog.md): A hardware description language used for the design and modeling of digital systems, particularly in the field of electronic design automation.
