@@ -35,10 +35,3 @@ To submit a pull request:
 1. Create a new branch:
  ```bash
 git checkout -b feature/
-
-
-
-
-
-
-2. Make your changes, following our coding guidelines.
