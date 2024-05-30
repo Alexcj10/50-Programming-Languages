@@ -1,37 +1,74 @@
 # Contributing to 50-Programming-Languages
 
-Thank you for your interest in contributing to 50-Programming-Languages! Here are some guidelines to help you get started.
+Thank you for your interest in contributing to the 50-Programming-Languages project! Here are some guidelines to help you get started.
 
 ## Getting Started
 
-1. Fork the repository.
+1. **Fork the Repository**
+   - Click the "Fork" button on the top right of the repository page.
 
-2. Clone your fork locally:
-   ```bash
-   git clone https://github.com/alexcj10/50-Programming-Languages.git
-   
-3. Set up your development environment. Refer to the README for specific setup instructions.
+2. **Clone Your Fork**
+   - Clone your forked repository to your local machine:
+     ```sh
+     git clone https://github.com/Alexcj10/50-Programming-Languages.git
+     ```
 
-# How to Contribute
+3. **Set Up the Development Environment**
+   - Follow the instructions in the [README](README.md) to set up your development environment.
 
-# Reporting Bugs
-If you find a bug, please open an issue on GitHub with the following details:
+## Reporting Bugs
 
-• A clear and descriptive title<br>
-• Steps to reproduce the issue<br>
-• Expected and actual results<br>
-• Any relevant screenshots or code snippets
+To report a bug, please open an issue on GitHub and include the following details:
 
-# Suggesting Enhancements
-To suggest a new feature or enhancement, open an issue with:
+- **Title**: A clear and descriptive title for the issue.
+- **Description**: A detailed description of the bug.
+- **Steps to Reproduce**: A list of steps to reproduce the bug.
+- **Expected Behavior**: What you expected to happen.
+- **Actual Behavior**: What actually happened.
+- **Screenshots/Code**: Any relevant screenshots or code snippets.
 
-• A clear and descriptive title<br>
-• A detailed description of the proposed change<br>
-• Any relevant mockups or examples
+## Suggesting Enhancements
 
-# Pull Requests
-To submit a pull request:
+To suggest an enhancement, please open an issue on GitHub and include the following details:
 
-1. Create a new branch:
- ```bash
-git checkout -b feature/
+- **Title**: A clear and descriptive title for the enhancement.
+- **Description**: A detailed description of the proposed change.
+- **Mockups/Examples**: Any relevant mockups or examples to illustrate the enhancement.
+
+## Submitting Pull Requests
+
+When submitting a pull request (PR), please follow these guidelines:
+
+1. **Create a Branch**
+   - Create a new branch for your changes:
+     ```sh
+     git checkout -b feature/your-feature-name
+     ```
+
+2. **Make Changes**
+   - Make your changes in the new branch.
+
+3. **Commit Changes**
+   - Commit your changes with a clear and descriptive commit message:
+     ```sh
+     git commit -m "Add feature: your feature description"
+     ```
+
+4. **Push Changes**
+   - Push your changes to your forked repository:
+     ```sh
+     git push origin feature/your-feature-name
+     ```
+
+5. **Open a Pull Request**
+   - Go to the original repository and open a pull request from your forked repository. Include a clear and descriptive title and description of your changes.
+
+## Code of Conduct
+
+Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+## License
+
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+
+Thank you for contributing!
