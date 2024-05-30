@@ -14,7 +14,7 @@ Thank you for your interest in contributing to the 50-Programming-Languages proj
      ```
 
 3. **Set Up the Development Environment**
-   - Follow the instructions in the [README](README.md) to set up your development environment.
+   - Follow the instructions in the [README](Development-Environment-README.md) to set up your development environment.
 
 ## Reporting Bugs
 
