@@ -55,7 +55,7 @@
 - [Java Books Library](https://t.me/java_books_library)
 - [Java Tutorial Advanced to Beginner](https://t.me/JavaAdvancedTutorial)
 - [Java programming](https://t.me/java_programming_concepts)
-- 
+  
 ## Discord Servers for JavaScript Learning and Discussion
 - [JavaScript Mastery](https://discord.gg/9fXB2RWQbK)
 - [The Odin Project](https://discord.gg/fbFCkYabZB)
