@@ -13,7 +13,7 @@
 - [Harvard's CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 ## Project Resources
-- [GitHub Python Projects](https://github.com/search?q=python+projects)
+- [Tech with Tim](https://youtu.be/NpmFbWO6HPU?si=sgZOr0fBQi3-PSwE)
 - [Kaggle Python Projects](https://www.kaggle.com/learn/python)
 - [Project Euler](https://projecteuler.net/)
 - [Real Python](https://realpython.com/)
