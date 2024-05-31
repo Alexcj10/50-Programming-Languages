@@ -41,6 +41,13 @@
 - [freeCodeCamp.org](https://youtu.be/LfaMVlDaQ24?si=umAEnUnebX7g4o_D)
 - [freeCodeCamp.org](https://youtu.be/Ej_02ICOIgs?si=8SJOpCvSmykp1PLn)
 - [Dave Gray](https://youtu.be/H2EJuAcrZYU?si=gofjrTXL4spgBxMU)
+- [freeCodeCamp.org](https://youtu.be/QUT1VHiLmmI?si=C4BeTem35F6f7BYa)
+- [freeCodeCamp.org](https://www.youtube.com/live/JOKJ6g3gUFE?si=ummCfJOIP7j5Vbs_)
+- [freeCodeCamp.org](https://youtu.be/8mAITcNt710?si=0fVMl7I1rdDlv5by)
+- [freeCodeCamp.org](https://youtu.be/5NgNicANyqM?si=xZ2JDWxkWdYKGcRw)
+- [freeCodeCamp.org](https://youtu.be/Z1RJmh_OqeA?si=7j8kUgSbxAjSSXXI)
+- [freeCodeCamp.org](https://youtu.be/dIUTsFT2MeQ?si=0TRBMAIp-RK_RHDs)
+- [freeCodeCamp.org](https://youtu.be/gtjxAH8uaP0?si=i1PHYhRuO5oOcnor)
 
 ## 💌Python Newsletters:
 - [Python Weekly ](https://www.pythonweekly.com/)
