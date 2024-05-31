@@ -34,7 +34,7 @@
 - [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw?si=zozaopNFQU_ehPz_)
 - [Jenny's Lectures CS IT](https://youtu.be/6i3EGqOBRiU?si=T9xtP5zmt0CfFdQk)
 - [Telusko](https://youtu.be/QXeEoD0pB3E?si=RVmTVM4KU591YPon)
-- [freeCodeCamp.org]([freeCodeCamp.org](https://youtu.be/rfscVS0vtbw?si=zozaopNFQU_ehPz_))
+- [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw?si=zozaopNFQU_ehPz_)
 - [freeCodeCamp.org](https://youtu.be/qwAFL1597eM?si=VctPRMbkRcCP2NHB)
 - [freeCodeCamp.org](https://youtu.be/8DvywoWv6fI?si=YkRVef2DIM3wNyTg)
 - [freeCodeCamp.org](https://youtu.be/LHBE6Q9XlzI?si=8eDVOWKRTgfLMa_4)
