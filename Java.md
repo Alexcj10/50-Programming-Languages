@@ -34,7 +34,7 @@
 - [IBM](https://www.ibm.com/docs/en/developer-for-zos/14.2?topic=concepts-java-projects)
 - [Placement Preparation](https://www.placementpreparation.io/blog/java-project-ideas-for-beginners/)
 
-## YouTube Channels for Learning Java
+## YouTube Videos/Playlist for Learning Java
 - [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=-tnxMR73TiVbHZoL)
 - [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&si=6jwgobHYByD7zF79)
 - [Programming with Mosh](https://youtu.be/eIrMbAQSU34?si=RLLS7_l7rvgtoBfI)
