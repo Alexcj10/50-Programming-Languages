@@ -36,7 +36,7 @@
 - [WsCude Tech](https://www.wscubetech.com/blog/javascript-projects/)
 - [Dev Community](https://dev.to/nehasoni__/25-javascript-project-with-source-code-to-build-your-skills-18e7)
 
-## YouTube Channels for Learning JavaScript
+## YouTube Videos/Playlist for Learning JavaScript
 - [freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=dGqNdDCQkBpsg9Hw)
 - [Telusko](https://youtu.be/IC5vBKc21X8?si=iJcr8qGqmGU3vkBM)
 - [Shradha Khapra](https://youtu.be/ajdRvxDWH4w?si=jF_2nn_Vhll2beay)
