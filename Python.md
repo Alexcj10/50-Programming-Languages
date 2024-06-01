@@ -26,7 +26,7 @@
 - [Awesome Python Projects on GitHub](https://github.com/vinta/awesome-python)
 - [freeCodeCamp.org](https://youtu.be/pdy3nh1tn6I?si=YF2MhVPwl9uB0fhB)
 
-## YouTube Videos/Playlist for Learning C++
+## YouTube Videos/Playlist for Learning Python
 - [100 Days of Code ](https://youtu.be/7wnove7K-ZQ?si=tu8ax8clgUsfYhrx)
 - [Shradha Khapra](https://youtu.be/t2_Q2BRzeEE?si=AdxTGRlrgO0RYlxb)
 - [Programming with Mosh](https://youtu.be/_uQrJ0TkZlc?si=9tS8maDBeTlksaVd)
