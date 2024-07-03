@@ -1,5 +1,8 @@
 # Python Learning and Project Resources
 
+# Why Learn Python ?
+
+
 ## Free Learning Resources
 - [Python Docs](https://docs.python.org/3/)
 - [W3Schools Python](https://www.w3schools.com/python/)
