@@ -65,21 +65,6 @@ JavaScript's continuous evolution also ensures that it remains relevant and powe
 - [Apna College](https://youtu.be/VlPiVmYuoqw?si=DSxZd3uZeix09S4k)
 - [CoderLipi](https://youtu.be/zBPeGR48_vE?si=-hnq6s2xJYQIMqzs)
 
-## Telegram Groups for JavaScript Learning
-- [JavaScript Programming](https://t.me/javascript_Programming)
-- [Html Css and Javascript](https://t.me/Html_Css_Javascript_Advance)
-- [Java Books Library](https://t.me/java_books_library)
-- [Java Tutorial Advanced to Beginner](https://t.me/JavaAdvancedTutorial)
-- [Java programming](https://t.me/java_programming_concepts)
-  
-## Discord Servers for JavaScript Learning and Discussion
-- [JavaScript Mastery](https://discord.gg/9fXB2RWQbK)
-- [The Odin Project](https://discord.gg/fbFCkYabZB)
-- [Traversy Media](https://discord.gg/traversymedia)
-- [freeCodeCamp](https://discord.gg/freecodecamp)
-- [Devcord](https://discord.gg/Devcord)
-- [Web Dev Simplified](https://discord.gg/Jx2QJTXX)
-- [CodeSupport](https://discord.gg/CodeSupport)
 
 Feel free to join these communities to ask questions, share your projects, and learn from others!
 
