@@ -75,17 +75,4 @@ Python’s simplicity and speed make it ideal for quickly prototyping ideas. Thi
 ## Reddit
 [Python Education](https://www.reddit.com/r/learnpython/wiki/index/#wiki_new_to_programming.3F)
 
-## Telegram Groups for Python Learning
-- [Python](https://t.me/pythontelegram)
-- [Python Projects](https://t.me/pythonprojects)
-- [Python Learning](https://t.me/pythonlearning)
-- [Python Hub](https://t.me/pythonhub)
-
-## Discord Servers for Python Learning and Discussion
-- [Python Discord](https://discord.gg/python)
-- [r/learnprogramming Discord](https://discord.gg/learnprogramming)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
-- [Devcord](https://discord.gg/Devcord)
-
 Feel free to join these communities to ask questions, share your projects, and learn from others!
