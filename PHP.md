@@ -47,5 +47,3 @@ The last reason to learn PHP: much like other programming languages, it has a hu
 - [ProgrammingKnowledge](https://youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg&si=_HYtXPAs_cJZkYbt)
 - [DG Tech](https://youtube.com/playlist?list=PLRvH37iEcMFHaXl7OPCZcZrLiIVKKUZ49&si=vewT2L-_-csAa1sg)
 
-
-Feel free to join these communities to ask questions, share your projects, and learn from others!
