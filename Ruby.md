@@ -28,15 +28,19 @@ Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This 
 - [Techotopia](https://www.techotopia.com/index.php/Ruby_Essentials)
 - [Man With Code](https://manwithcode.com/ruby-programming-tutorials/)
 - [Learn Chef](https://docs.chef.io/ruby/)
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 - [Java2s](http://www.java2s.com/example/ruby-book/ruby.html)
 - [TreeHouse](https://teamtreehouse.com/tracks/learn-ruby)
 
 ## Project Resources
-- [GitHub Ruby Projects](https://github.com/topics/ruby)
-- [Ruby Toolbox](https://www.ruby-toolbox.com/)
-- [RubyGems](https://rubygems.org/)
-- [RubyFlow](http://www.rubyflow.com/)
-- [Awesome Ruby](https://github.com/markets/awesome-ruby)
+- [Codementor](https://www.codementor.io/projects/ruby)
+- [Codecademy](https://www.codecademy.com/projects/language/ruby)
+- [topexceltips.com](https://topexceltips.com/ruby-project-ideas/)
+- [geeksforgeeks](https://www.geeksforgeeks.org/ruby-on-rails-projects/)
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+- [altcademy](https://www.altcademy.com/blog/9-seriously-good-portfolio-project-ideas-in-ruby/)
+- Best one 64 Projects [web3](https://web3.career/learn-web3/top-ruby-open-source-projects)
+- [optymize.io](https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/)
 
 ## YouTube Channels for Learning Ruby
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
