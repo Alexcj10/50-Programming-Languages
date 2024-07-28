@@ -1,6 +1,6 @@
 # Java Learning and Project Resources
 
-# Why Learn Java?
+## Why Learn Java?
 
 Java is a highly robust, versatile, and widely-used programming language that has been a cornerstone of the software industry for decades. Its platform independence, achieved through the Java Virtual Machine (JVM), makes it a popular choice for developing cross-platform applications. You can write Java code on any device, and it will run on any other device that supports Java, making it an ideal language for a wide range of applications from web development to mobile apps, and enterprise solutions.
 
