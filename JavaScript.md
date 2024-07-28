@@ -66,5 +66,3 @@ JavaScript's continuous evolution also ensures that it remains relevant and powe
 - [CoderLipi](https://youtu.be/zBPeGR48_vE?si=-hnq6s2xJYQIMqzs)
 
 
-Feel free to join these communities to ask questions, share your projects, and learn from others!
-
