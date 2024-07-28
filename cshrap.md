@@ -66,4 +66,3 @@ In conclusion, learning C# equips developers with a powerful and versatile tools
 - [Derek Banas](https://youtu.be/M5ugY7fWydE?si=w996cpweQjSh5JMS)
 - [TutorialsEU](https://youtu.be/q_F4PyW8GTg?si=tlORYnJlE1dyDT4f)
 
-Feel free to join these communities to ask questions, share your projects, and learn from others!
