@@ -47,16 +47,5 @@ The last reason to learn PHP: much like other programming languages, it has a hu
 - [ProgrammingKnowledge](https://youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg&si=_HYtXPAs_cJZkYbt)
 - [DG Tech](https://youtube.com/playlist?list=PLRvH37iEcMFHaXl7OPCZcZrLiIVKKUZ49&si=vewT2L-_-csAa1sg)
 
-## Telegram Groups for PHP Learning
-- [PHP Programming](https://t.me/phpprogramming)
-- [PHP Developers](https://t.me/php_dev)
-- [PHP Community](https://t.me/phpcommunity)
-- [PHP Help](https://t.me/phphelp)
-
-## Discord Servers for PHP Learning and Discussion
-- [r/PHP Discord](https://discord.gg/php)
-- [PHP Chat](https://discord.gg/4D3F4Wp)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
 
 Feel free to join these communities to ask questions, share your projects, and learn from others!
