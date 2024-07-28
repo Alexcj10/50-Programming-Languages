@@ -66,17 +66,4 @@ In conclusion, learning C# equips developers with a powerful and versatile tools
 - [Derek Banas](https://youtu.be/M5ugY7fWydE?si=w996cpweQjSh5JMS)
 - [TutorialsEU](https://youtu.be/q_F4PyW8GTg?si=tlORYnJlE1dyDT4f)
 
-## Telegram Groups for C# Learning
-- [C# (C Sharp) programming Channels](https://t.me/csharp_ci)
-- [C# language Course](https://t.me/C_course_to_learn)
-- [C# programming (practicals)👍](https://t.me/c_languages)
-- [C#](https://t.me/Codeviser)
-- [C# Language 👨‍💻](https://t.me/C_Codings)
-
-## Discord Servers for C# Learning and Discussion
-- [C# Discord](https://discord.gg/csharp)
-- [r/learnprogramming Discord](https://discord.gg/learnprogramming)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
-
 Feel free to join these communities to ask questions, share your projects, and learn from others!
