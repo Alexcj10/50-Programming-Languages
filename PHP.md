@@ -37,7 +37,7 @@ The last reason to learn PHP: much like other programming languages, it has a hu
 - [Webslesson](https://www.webslesson.info/p/download-php-project-with-source-code.html)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/php-projects/)
 
-## YouTube Channels for Learning PHP
+## YouTube Videos/Playlist for Learning PHP
 - [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&si=OjJO8Rieq0tKKHfA)
 - [Code Step By Step](https://youtube.com/playlist?list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&si=oSMCKQ3ODvz3x0r0)
 - [freecodecamp.org](https://youtu.be/OK_JCtrrv-c?si=P4xSbbm-jbgmM5WD)
