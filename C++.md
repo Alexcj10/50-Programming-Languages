@@ -1,6 +1,6 @@
 # C++ Learning and Project Resources
 
-# Why Learn C++?
+## Why Learn C++?
 
 C++ is a powerful, high-performance programming language that is widely used in various fields, including system/software development, game development, and competitive programming. Its efficiency, control over system resources, and versatility make it an essential language for many developers.
 
