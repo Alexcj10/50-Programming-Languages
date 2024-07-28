@@ -53,5 +53,3 @@ Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This 
 - [freecodecamp.org](https://youtu.be/fmyvWz5TUWg?si=ZNy7lfSVyTeIOR0A)
 - [APPSIMPACT Academy Hindi](https://youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7&si=BwWztlCOEcKmcGLZ)
 
-
-Feel free to join these communities to ask questions, share your projects, and learn from others!
