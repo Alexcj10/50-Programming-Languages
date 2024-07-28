@@ -43,12 +43,15 @@ Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This 
 - [optymize.io](https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/)
 
 ## YouTube Videos/Playlist for Learning Ruby
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
-- [Corey Schafer](https://www.youtube.com/c/Coreyms)
-- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
-- [Learn Ruby - Codecademy](https://www.youtube.com/playlist?list=PLjDTd-bDo6Q3Ckuh7c4Ahd6Y6eWfIqVja)
-- [Ruby Programming - Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52ZBzC7Lg3u)
+- [freecodecamp.org](https://youtu.be/t_ispmWmdjY?si=7eWFQnTydDgz7WOE)
+- [Giraffe Academy](https://youtube.com/playlist?list=PLLAZ4kZ9dFpO90iMas70Tt4_wYjhLGkya&si=T89DBv54OuHF6LzY)
+- [Programming Knowledge](https://youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK&si=4DvIcFGiSe7MEmIv)
+- [CS Geeks](https://youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV&si=TxLuR14OSwW8UY19)
+- [Jake Day](https://youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp&si=iyiKJ9vcZdFUKH7b)
+- [Smartherd](https://youtube.com/playlist?list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm&si=LQPs_3kUuQ4rxdy6)
+- [GoRails](https://youtube.com/playlist?list=PLm8ctt9NhMNXP7FODFNrQhB6Dg-z_XqTd&si=_BdVjwoFxGVU0wuO)
+- [freecodecamp.org](https://youtu.be/fmyvWz5TUWg?si=ZNy7lfSVyTeIOR0A)
+- [APPSIMPACT Academy Hindi](https://youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7&si=BwWztlCOEcKmcGLZ)
 
 
 Feel free to join these communities to ask questions, share your projects, and learn from others!
