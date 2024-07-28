@@ -15,15 +15,21 @@ Ruby developers are in high demand across various industries. Learning Ruby can 
 Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This allows developers to test and iterate on their ideas efficiently. Furthermore, Ruby is available on all major operating systems, including Windows, macOS, and Linux. This cross-platform compatibility ensures that your Ruby code can run on different environments without modification.
 
 ## Free Learning Resources
-- [Ruby Documentation](https://ruby-doc.org/)
-- [W3Schools Ruby](https://www.w3schools.com/ruby/)
-- [Codecademy Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
-- [Coursera Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)
-- [SoloLearn Ruby](https://www.sololearn.com/Course/Ruby/)
-- [RubyMonk](https://rubymonk.com/)
-- [Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)
-- [RubyLearning](http://rubylearning.com/satishtalim/tutorial.html)
-- [RubyGuides](https://www.rubyguides.com/)
+- [Codecademy](https://www.codecademy.com/learn/learn-ruby)
+- [Learn By Online](https://learnrubyonline.org/)
+- [Educative](https://www.educative.io/courses/learn-ruby-from-scratch)
+- [Ruby Guide's](https://www.rubyguides.com/ruby-tutorial/)
+- [TutorialsPoint](https://www.tutorialspoint.com/ruby/index.htm)
+- [Launch School](https://launchschool.com/books/ruby)
+- [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
+- [LearnEnough.io](https://www.learnenough.com/ruby-tutorial?ref=richstone.io)
+- [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Plural Sight](https://www.pluralsight.com/search?q=ruby)
+- [Techotopia](https://www.techotopia.com/index.php/Ruby_Essentials)
+- [Man With Code](https://manwithcode.com/ruby-programming-tutorials/)
+- [Learn Chef](https://docs.chef.io/ruby/)
+- [Java2s](http://www.java2s.com/example/ruby-book/ruby.html)
+- [TreeHouse](https://teamtreehouse.com/tracks/learn-ruby)
 
 ## Project Resources
 - [GitHub Ruby Projects](https://github.com/topics/ruby)
