@@ -1,6 +1,6 @@
 # Python Learning and Project Resources
 
-# Why Learn Python ?
+## Why Learn Python ?
 Python is a versatile, high-level programming language known for its simplicity and readability. It’s widely used in various fields such as web development, data analysis, artificial intelligence, scientific computing, and automation. Its clean and straightforward syntax makes it an excellent choice for beginners. Even those with no programming background can pick it up quickly, while experienced developers appreciate its efficiency.
 
 Python’s rich ecosystem of libraries and frameworks supports a wide range of applications. Whether you’re interested in data analysis, machine learning, web development, or automation, Python has tools to help. Popular libraries like NumPy and Pandas for data analysis, TensorFlow and PyTorch for machine learning, Django and Flask for web development, Requests for making HTTP requests, and Beautiful Soup for web scraping are just a few examples of what Python offers.
