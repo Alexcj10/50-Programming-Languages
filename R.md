@@ -34,7 +34,7 @@ R’s simplicity and extensive package ecosystem make it ideal for quickly proto
 - Personal Favorite [Favtutor](https://favtutor.com/blogs/r-programming-projects)
 - Best one [Project Pro](https://www.projectpro.io/projects/data-science-projects/data-science-projects-in-r)
 
-## YouTube Channels for Learning R
+## YouTube Videos/Playlist for Learning R
 - [WsCube Tech](https://youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF&si=fEm7ZT4eZD8b2d7k)
 - [Coursera](https://youtube.com/playlist?list=PLVext98k2evi8mDNRo4MwIgVgSmwM3cS8&si=ERKxdLicdi4zkonN)
 - [5 Minutes Engineering](https://youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48&si=qe_SiAgo4wdI0T8k)
