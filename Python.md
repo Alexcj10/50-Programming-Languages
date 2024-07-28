@@ -75,4 +75,3 @@ Python’s simplicity and speed make it ideal for quickly prototyping ideas. Thi
 ## Reddit
 [Python Education](https://www.reddit.com/r/learnpython/wiki/index/#wiki_new_to_programming.3F)
 
-Feel free to join these communities to ask questions, share your projects, and learn from others!
