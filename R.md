@@ -32,7 +32,7 @@ R’s simplicity and extensive package ecosystem make it ideal for quickly proto
 - [Codecademy](https://www.codecademy.com/projects/language/r)
 - [Placement Preparation](https://www.placementpreparation.io/blog/r-programming-project-ideas-for-beginners/)
 - Personal Favorite [Favtutor](https://favtutor.com/blogs/r-programming-projects)
-- Best one[Project Pro](https://www.projectpro.io/projects/data-science-projects/data-science-projects-in-r)
+- Best one [Project Pro](https://www.projectpro.io/projects/data-science-projects/data-science-projects-in-r)
 
 ## YouTube Channels for Learning R
 - [WsCube Tech](https://youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF&si=fEm7ZT4eZD8b2d7k)
