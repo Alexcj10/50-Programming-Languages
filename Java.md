@@ -79,5 +79,4 @@ Java's continuous evolution ensures that it stays relevant and modern. The langu
 - [CodeSupport](https://discord.gg/CodeSupport)
 - [Programmers Palace](https://discord.gg/ProPalace)
 
-Feel free to join these communities to ask questions, share your projects, and learn from others!
 
