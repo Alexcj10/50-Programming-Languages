@@ -42,7 +42,7 @@ Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This 
 - Best one 64 Projects [web3](https://web3.career/learn-web3/top-ruby-open-source-projects)
 - [optymize.io](https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/)
 
-## YouTube Channels for Learning Ruby
+## YouTube Videos/Playlist for Learning Ruby
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms)
@@ -50,16 +50,5 @@ Ruby’s simplicity and speed make it ideal for quickly prototyping ideas. This 
 - [Learn Ruby - Codecademy](https://www.youtube.com/playlist?list=PLjDTd-bDo6Q3Ckuh7c4Ahd6Y6eWfIqVja)
 - [Ruby Programming - Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52ZBzC7Lg3u)
 
-## Telegram Groups for Ruby Learning
-- [Ruby Programming](https://t.me/rubyprogramming)
-- [Ruby Developers](https://t.me/rubydev)
-- [Ruby on Rails](https://t.me/rubyonrails)
-- [Ruby Community](https://t.me/rubycommunity)
-
-## Discord Servers for Ruby Learning and Discussion
-- [r/Ruby Discord](https://discord.gg/ruby)
-- [Ruby Hangout](https://discord.gg/ruby)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
 
 Feel free to join these communities to ask questions, share your projects, and learn from others!
