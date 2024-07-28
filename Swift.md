@@ -15,43 +15,31 @@ Swift developers are in high demand across various industries. Learning Swift ca
 Swift’s simplicity and speed make it ideal for quickly prototyping ideas. This allows developers to test and iterate on their ideas efficiently. Furthermore, Swift is available on all major Apple platforms, including iOS, macOS, watchOS, and tvOS. This cross-platform compatibility ensures that your Swift code can run on different Apple environments without modification.
 
 ## Free Learning Resources
-- [Swift Documentation](https://developer.apple.com/documentation/swift)
-- [Apple's Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-- [Codecademy Learn Swift](https://www.codecademy.com/learn/learn-swift)
-- [Coursera iOS App Development with Swift](https://www.coursera.org/learn/ios-app-development)
-- [Hacking with Swift](https://www.hackingwithswift.com/)
-- [SoloLearn Swift](https://www.sololearn.com/Course/Swift/)
-- [Ray Wenderlich Swift Tutorials](https://www.raywenderlich.com/ios)
-- [Swift.org's Swift Tutorials](https://swift.org/getting-started/)
-- [Learn Swift - Codecademy](https://www.codecademy.com/learn/learn-swift)
+- [codecademy](https://www.codecademy.com/learn/learn-swift)
+- [Apple's Swift](https://developer.apple.com/swift/)
+- [Swift Playgrounds](https://developer.apple.com/swift-playgrounds/)
+- [Official Swift Docs](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [programiz](https://www.programiz.com/swift-programming)
+- [udacity](https://www.udacity.com/course/swift-for-beginners--ud1022)
+- [TutorialsPoint](https://www.tutorialspoint.com/swift/index.htm)
 
 ## Project Resources
-- [GitHub Swift Projects](https://github.com/topics/swift)
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
-- [Swift Package Index](https://swiftpackageindex.com/)
-- [Swift Algorithms](https://github.com/apple/swift-algorithms)
-- [SwiftLint](https://github.com/realm/SwiftLint)
+- [codementor](https://www.codementor.io/projects/swift)
+- [Swift.org](https://www.swift.org/project-ideas/)
+- [Placement Preparation ](https://www.placementpreparation.io/blog/swift-project-ideas-for-beginners/)
+- [codecademy](https://www.codecademy.com/projects/language/swift)
+- [20+ Swift projects with source code](https://www.kashipara.com/project/category/latest_swift-project-source-code_7)
 
-## YouTube Channels for Learning Swift
-- [CodeWithChris](https://www.youtube.com/c/CodeWithChris)
-- [The Swift Guy](https://www.youtube.com/user/Archetapp)
-- [Sean Allen](https://www.youtube.com/user/seanallen)
-- [Paul Hudson](https://www.youtube.com/user/twostraws)
-- [Codecademy](https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ)
-- [Brian Advent](https://www.youtube.com/user/brianadvent)
-- [Let's Build That App](https://www.youtube.com/c/LetsBuildThatApp)
-- [Code Mentor](https://www.youtube.com/channel/UC0rrZi4-2SyE1zjmZmibCGw)
+## YouTube Videos/Playlist for Learning Swift
+- [freecodecamp.org](https://youtu.be/8Xg7E9shq0U?si=c-PuncuxxSRG5ZZe)
+- [Sean Allen](https://youtu.be/CwA1VWP0Ldw?si=vgDBR6qvcqKvt5CG)
+- [IOS Academy](https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&si=8RKXsWwmD1j4CE6-)
+- [Code Cat](https://youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6&si=tV7XPXFUbvP4a4j6)
+- [Swiftful Thinking](https://youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB&si=GgMHNiGmElkgQWTO)
+- [CodeWithChris](https://youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX&si=MsDEKEiHQjmlHSNb)
+- [Code With Cal](https://youtube.com/playlist?list=PLnQbggnVfvo2wIr4kV1h6208xk1pPf2F0&si=66GFYg-Lzp9D7SE7)
+- [Yogesh Patel](https://youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO&si=pXbQVJp6QHyZ148Q)
+- [Sean Allen](https://youtu.be/b1oC7sLIgpI?si=S607C-n4RMwFFyI8)
 
-## Telegram Groups for Swift Learning
-- [Swift Programming](https://t.me/swiftprogramming)
-- [iOS Developers](https://t.me/iosdev)
-- [Swift Language](https://t.me/swiftlanguage)
-- [Swift Community](https://t.me/swift_community)
-
-## Discord Servers for Swift Learning and Discussion
-- [Swift Discord](https://discord.gg/swift)
-- [iOS Developers HQ](https://discord.gg/iosdev)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
-
-Feel free to join these communities to ask questions, share your projects, and learn from others!
+## All in one
+- [41 Best Resources to learn Swift (YouTube, Books, Courses, & Tutorials)](https://www.mltut.com/best-resources-to-learn-swift/)
