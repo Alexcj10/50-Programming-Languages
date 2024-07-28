@@ -1,6 +1,6 @@
 # JavaScript Learning and Project Resources
 
-# Why Learn JavaScript?
+## Why Learn JavaScript?
 
 JavaScript is a dynamic, versatile programming language that is essential for web development. It's the backbone of modern interactive websites and applications, enabling everything from simple animations to complex web applications. JavaScript allows developers to create engaging user interfaces, handle events, and manipulate web content dynamically.
 
