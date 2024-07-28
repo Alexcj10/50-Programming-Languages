@@ -1,6 +1,6 @@
 # PHP Learning and Project Resources
 
-# Why Learn PHP?
+## Why Learn PHP?
 PHP is a server-side scripting language that is primarily used to create dynamic web pages. You’ll see PHP doing things like generating interactive content, collecting form data, sending information to visitors, and authenticating users. It’s also the backbone of WordPress and its plugins, which add all sorts of unique functions to the CMS. You can do pretty much anything with PHP.
 
 It’s also generally very easy to learn and a good starter language for new devs. If you do have a background in programming, you should tear right through it. But even total beginners won’t struggle too much navigating the ins and outs of PHP.
