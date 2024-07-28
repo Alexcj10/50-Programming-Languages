@@ -1,6 +1,6 @@
 # C# Learning and Project Resources
 
-# Why Learn C#?
+## Why Learn C#?
 
 C# is a powerful and versatile programming language developed by Microsoft, primarily used for building Windows applications, web applications, and games within the .NET framework. Here are several compelling reasons to learn C#:
 
