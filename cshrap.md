@@ -50,7 +50,7 @@ In conclusion, learning C# equips developers with a powerful and versatile tools
 - [Source Code & Projects](https://code-projects.org/c/languages/project/c-sharp-projects/)
 - [kashipara](https://www.kashipara.com/project/c-net-project_3)
 
-## YouTube Channels for Learning C#
+## YouTube Videos/Playlist for Learning C#
 - [Learning Never Ends](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR&si=0rM_wWuIoE4y0WaY)
 - [Kudvenkat](https://youtube.com/playlist?list=PLAC325451207E3105&si=XKCjwZSkshg3S1FA)
 - [Programming with Mosh](https://youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef&si=wKEzFbgxD7eLw7Jv)
