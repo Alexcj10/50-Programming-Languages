@@ -71,17 +71,5 @@ Learning C++ is challenging but rewarding. Its performance, control over system 
 - [Caleb Curry](https://youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG&si=mhhcAmWlynI_oZwP)
 - [Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on&si=_xuadSMMNf0vSDD9)
  
-## Telegram Groups for C++ Learning
-- [C++ Programming](https://t.me/cpp_programming)
-- [C++ Developers](https://t.me/cpp_dev)
-- [C++ Programming Language](https://t.me/cpp_programming_language)
-- [C++ Help](https://t.me/cpp_help)
-
-## Discord Servers for C++ Learning and Discussion
-- [C++ Community](https://discord.gg/cpp)
-- [C++ Programming](https://discord.gg/YMJGPYw)
-- [r/learnprogramming Discord](https://discord.gg/learnprogramming)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
 
 Feel free to join these communities to ask questions, share your projects, and learn from others!
