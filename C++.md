@@ -72,4 +72,3 @@ Learning C++ is challenging but rewarding. Its performance, control over system 
 - [Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on&si=_xuadSMMNf0vSDD9)
  
 
-Feel free to join these communities to ask questions, share your projects, and learn from others!
