@@ -20,18 +20,30 @@ Learning Objective-C can open up numerous career opportunities, particularly for
 
 ## Free Learning Resources
 - [Objective-C Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-- [Codecademy Learn Objective-C](https://www.codecademy.com/learn/learn-objective-c)
-- [Coursera Programming iOS 11](https://www.coursera.org/learn/ios-programming)
-- [SoloLearn Objective-C](https://www.sololearn.com/Course/Objective-C/)
-- [Objective-C Programming - Tutorialspoint](https://www.tutorialspoint.com/objective_c/index.htm)
-- [Learn Objective-C - Codecademy](https://www.codecademy.com/learn/learn-objective-c)
+- [Apple Developer's ](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
+- [Tutorialspoint](https://www.tutorialspoint.com/objective_c/index.htm)
+- [codecademy](https://www.codecademy.com/resources/docs/swift/objective-c)
 
 ## Project Resources
-- [GitHub Objective-C Projects](https://github.com/topics/objective-c)
-- [Awesome Objective-C](https://github.com/vsouza/awesome-ios)
-- [Cocoa Controls](https://www.cocoacontrols.com/)
-- [CocoaPods](https://cocoapods.org/)
-- [iOSDevTools](https://iosdev.tools/)
+- [GitHub Objective-C Projects](https://github.com/trending/objective-c)
+- **Tutorial**: [Ray Wenderlich ToDo App](https://www.raywenderlich.com/17976154-ios-tutorial-how-to-make-a-simple-todo-list-app)
+- [WeatherApp](https://github.com/tonymillion/Reachability)
+- [How to Build a Weather App](https://www.raywenderlich.com/17975936-weather-app-tutorial-in-objective-c)
+- [Calculator](https://github.com/JaviSoto/iOS10-Runtime-Headers)
+- **Tutorial**: [Build a Calculator App](https://medium.com/swiftly-swift/how-to-make-a-calculator-app-in-ios-c36de3baf7b3)
+- [PhotoGallery](https://github.com/itsthejb/ActionSheetPicker)
+- [Photo Gallery App Tutorial](https://www.raywenderlich.com/17975545-photo-gallery-app-tutorial)
+- [NotesApp](https://github.com/cihadturhan/Objective-C-Flickr-Photo-Viewer)
+- **Tutorial**: [Build a Notes App](https://www.appcoda.com/simple-objective-c-app-tutorial/)
+- [ChatApp](https://github.com/relatedcode/Messenger)
+- [ECommerceApp](https://github.com/D-32/DZNCategories)
+- **Tutorial**: [Build an E-commerce App](https://www.appcoda.com/ios-programming-101-creating-your-first-ios-app/)
+- [MusicPlayer](https://github.com/dennisweissmann/DeviceKit)
+- **Tutorial**: [iOS Music Player Tutorial](https://www.raywenderlich.com/17976018-music-player-app-tutorial)
+- [SocialMediaApp](https://github.com/akosma/AKTabBarController)
+- [FitnessApp](https://github.com/nihalsharma/HeartRate-iOS-App)
+
+
 
 ## YouTube Channels for Learning Objective-C
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
