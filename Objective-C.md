@@ -26,43 +26,16 @@ Learning Objective-C can open up numerous career opportunities, particularly for
 
 ## Project Resources
 - [GitHub Objective-C Projects](https://github.com/trending/objective-c)
-- **Tutorial**: [Ray Wenderlich ToDo App](https://www.raywenderlich.com/17976154-ios-tutorial-how-to-make-a-simple-todo-list-app)
-- [WeatherApp](https://github.com/tonymillion/Reachability)
-- [How to Build a Weather App](https://www.raywenderlich.com/17975936-weather-app-tutorial-in-objective-c)
-- [Calculator](https://github.com/JaviSoto/iOS10-Runtime-Headers)
-- **Tutorial**: [Build a Calculator App](https://medium.com/swiftly-swift/how-to-make-a-calculator-app-in-ios-c36de3baf7b3)
-- [PhotoGallery](https://github.com/itsthejb/ActionSheetPicker)
-- [Photo Gallery App Tutorial](https://www.raywenderlich.com/17975545-photo-gallery-app-tutorial)
-- [NotesApp](https://github.com/cihadturhan/Objective-C-Flickr-Photo-Viewer)
-- **Tutorial**: [Build a Notes App](https://www.appcoda.com/simple-objective-c-app-tutorial/)
-- [ChatApp](https://github.com/relatedcode/Messenger)
-- [ECommerceApp](https://github.com/D-32/DZNCategories)
-- **Tutorial**: [Build an E-commerce App](https://www.appcoda.com/ios-programming-101-creating-your-first-ios-app/)
-- [MusicPlayer](https://github.com/dennisweissmann/DeviceKit)
-- **Tutorial**: [iOS Music Player Tutorial](https://www.raywenderlich.com/17976018-music-player-app-tutorial)
-- [SocialMediaApp](https://github.com/akosma/AKTabBarController)
-- [FitnessApp](https://github.com/nihalsharma/HeartRate-iOS-App)
-
-
+- [GitHub Objective-C Projects](https://github.com/topics/objective-c)
 
 ## YouTube Channels for Learning Objective-C
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
-- [CodeWithChris](https://www.youtube.com/user/CodeWithChris)
-- [Brian Advent](https://www.youtube.com/user/brianadvent)
-- [Code School](https://www.youtube.com/user/codeschool)
-- [Jared Davidson](https://www.youtube.com/user/jared2t)
-- [iOS Academy](https://www.youtube.com/channel/UCZCzJcEZv3M-DjBjPx0EV5Q)
+- [Thenewboston](https://youtube.com/playlist?list=PL640F44F1C97BA581&si=zTsz4k2bdIfO0Zwb)
+- [Yogesh Patel](https://youtube.com/playlist?list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9&si=EoTIShBarGpqxTE3)
+- [Derek Banas](https://youtu.be/5esQqZIJ83g?si=I7wOJ7n2cbkgrEcF)
+- [mybringback](https://youtube.com/playlist?list=PL0CFA8DF2A8A00C65&si=2F4MdksdeYPk2tGi)
+- [Apple Programming](https://youtube.com/playlist?list=PL38860A77CF9B4923&si=4EoP3kftC8u4OrfY)
+- [Karl Hadwen](https://youtube.com/playlist?list=PLpP9FLMkNf54g8JOXmr0rluK8sACgsr6f&si=tYWqEpMazzrLR_ky)
+- [Code With Chris](https://youtube.com/playlist?list=PLMRqhzcHGw1ZoYJA9Uo9O1L5ZsLNdPBul&si=lz4_go9DivyRCgH8)
 
-## Telegram Groups for Objective-C Learning
-- [Objective-C Programming](https://t.me/objectivecprogramming)
-- [iOS Developers](https://t.me/iosdev)
-- [Objective-C Community](https://t.me/objectivec_community)
-- [Objective-C Help](https://t.me/objectivec_help)
-
-## Discord Servers for Objective-C Learning and Discussion
-- [r/ObjectiveC Discord](https://discord.gg/objectivec)
-- [iOS Developers HQ](https://discord.gg/iosdev)
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [CodeSupport](https://discord.gg/CodeSupport)
-
-Feel free to join these communities to ask questions, share your projects, and learn from others!
+## All in one
+- [Objective-C Programming](https://www.appcoda.com/ios-programming-course/)
