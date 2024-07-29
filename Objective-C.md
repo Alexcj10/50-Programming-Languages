@@ -28,7 +28,7 @@ Learning Objective-C can open up numerous career opportunities, particularly for
 - [GitHub Objective-C Projects](https://github.com/trending/objective-c)
 - [GitHub Objective-C Projects](https://github.com/topics/objective-c)
 
-## YouTube Channels for Learning Objective-C
+## YouTube Videos/Playlist for Learning Objective-C
 - [Thenewboston](https://youtube.com/playlist?list=PL640F44F1C97BA581&si=zTsz4k2bdIfO0Zwb)
 - [Yogesh Patel](https://youtube.com/playlist?list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9&si=EoTIShBarGpqxTE3)
 - [Derek Banas](https://youtu.be/5esQqZIJ83g?si=I7wOJ7n2cbkgrEcF)
