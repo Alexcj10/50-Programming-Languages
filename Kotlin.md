@@ -20,11 +20,11 @@ The demand for Kotlin developers is on the rise, particularly in the mobile deve
 
 ## Free Learning Resources
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
+- [geeksforgeeks](https://www.geeksforgeeks.org/kotlin-programming-language/)
 - [Codecademy Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin)
-- [Coursera Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)
-- [SoloLearn Kotlin](https://www.sololearn.com/Course/Kotlin/)
-- [Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
+- [Android Developers](https://developer.android.com/kotlin)
+- [W3Schools](https://www.w3schools.com/KOTLIN/index.php)
+- [javatpoint](https://www.javatpoint.com/kotlin-tutorial)
 - [Kotlin Programming Tutorials - Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
 - [Kotlin Tutorial - JournalDev](https://www.journaldev.com/kotlin)
 
