@@ -1,6 +1,6 @@
 # Scala Learning and Project Resources
 
-### Why Learn Scala?
+## Why Learn Scala?
 
 Scala is a powerful, modern programming language that combines **functional and object-oriented programming paradigms**. It is known for its **concise syntax**, **expressiveness**, and ability to write **scalable software**. Scala runs on the **Java Virtual Machine (JVM)**, making it highly interoperable with Java, which allows developers to integrate with existing Java libraries and frameworks seamlessly.
 
