@@ -26,7 +26,7 @@ Learning Go opens numerous career opportunities.
 - [Go Projects](https://golang.withcodeexample.com/blog/golang-project-ideas/) - Features several project ideas that you can implement to practice Go.
 - [Java67](https://www.java67.com/2022/12/projects-you-can-build-to-learn-golang.html) - Lists numerous projects suitable for beginners to help learn Go effectively.
 
-## YouTube Channels for Learning Go
+## YouTube Videos/Playlist for Learning Go
 - [TechWorld with Nana](https://youtu.be/yyUHQIec83I?si=v8OW7CqhKOXk0aw5) - Offers tutorials and insights into practical applications of Go programming.
 - [freeCodeCamp.org](https://youtu.be/un6ZyFkqFKo?si=oQbLCDYDZ6YwNt8f) - A complete Go programming course available for free on YouTube.
 - [Net Ninjas](https://youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM&si=KvS9ABgYzjywFupF) - A playlist covering various Go programming topics.
