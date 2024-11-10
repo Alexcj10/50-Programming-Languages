@@ -64,201 +64,201 @@ Each language folder contains:
 To enhance your coding experience, we recommend the following IDEs:
 
 ### Python
-- **PyCharm:** Download from [JetBrains](https://www.jetbrains.com/pycharm/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **PyCharm:** Download from [**JetBrains**](https://www.jetbrains.com/pycharm/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### JavaScript
-- **WebStorm:** Download from [JetBrains](https://www.jetbrains.com/webstorm/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **WebStorm:** Download from [**JetBrains**](https://www.jetbrains.com/webstorm/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Java
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **Eclipse:** Download from [Eclipse](https://www.eclipse.org/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **Eclipse:** Download from [**Eclipse**](https://www.eclipse.org/)
 
 ### C++
-- **CLion:** Download from [JetBrains](https://www.jetbrains.com/clion/)
-- **Code::Blocks:** Download from [Code::Blocks](http://www.codeblocks.org/)
+- **CLion:** Download from [**JetBrains**](https://www.jetbrains.com/clion/)
+- **Code::Blocks:** Download from [**Code::Blocks**](http://www.codeblocks.org/)
 
 ### C#
-- **Visual Studio:** Download from [Microsoft](https://visualstudio.microsoft.com/)
+- **Visual Studio:** Download from [**Microsoft**](https://visualstudio.microsoft.com/)
 
 ### PHP
-- **PhpStorm:** Download from [JetBrains](https://www.jetbrains.com/phpstorm/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **PhpStorm:** Download from [**JetBrains**](https://www.jetbrains.com/phpstorm/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Ruby
-- **RubyMine:** Download from [JetBrains](https://www.jetbrains.com/ruby/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **RubyMine:** Download from [**JetBrains**](https://www.jetbrains.com/ruby/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Swift
-- **Xcode:** Download from [Apple](https://developer.apple.com/xcode/)
+- **Xcode:** Download from [**Apple**](https://developer.apple.com/xcode/)
 
 ### Go
-- **GoLand:** Download from [JetBrains](https://www.jetbrains.com/go/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **GoLand:** Download from [**JetBrains**](https://www.jetbrains.com/go/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### R
-- **RStudio:** Download from [RStudio](https://www.rstudio.com/)
+- **RStudio:** Download from [**RStudio**](https://www.rstudio.com/)
 
 ### Kotlin
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **Android Studio:** Download from [Google](https://developer.android.com/studio)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **Android Studio:** Download from [**Google**](https://developer.android.com/studio)
 
 ### Objective-C
-- **Xcode:** Download from [Apple](https://developer.apple.com/xcode/)
+- **Xcode:** Download from [**Apple**](https://developer.apple.com/xcode/)
 
 ### Scala
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **Eclipse:** Download from [Eclipse](https://www.scala-ide.org/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **Eclipse:** Download from [**Eclipse**](https://www.scala-ide.org/)
 
 ### Dart
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Perl
-- **Padre:** Download from [Padre](http://padre.perlide.org/)
-- **Komodo Edit:** Download from [ActiveState](https://www.activestate.com/products/komodo-edit/)
+- **Padre:** Download from [**Padre**](http://padre.perlide.org/)
+- **Komodo Edit:** Download from [**ActiveState**](https://www.activestate.com/products/komodo-edit/)
 
 ### Rust
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Groovy
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **Eclipse:** Download from [Eclipse](https://github.com/groovy/groovy-eclipse)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **Eclipse:** Download from [**Eclipse**](https://github.com/groovy/groovy-eclipse)
 
 ### Clojure
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Elixir
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Haskell
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Bash
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
-- **Sublime Text:** Download from [Sublime Text](https://www.sublimetext.com/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
+- **Sublime Text:** Download from [**Sublime Text**](https://www.sublimetext.com/)
 
 ### SQL
-- **DataGrip:** Download from [JetBrains](https://www.jetbrains.com/datagrip/)
-- **DBeaver:** Download from [DBeaver](https://dbeaver.io/)
+- **DataGrip:** Download from [**JetBrains**](https://www.jetbrains.com/datagrip/)
+- **DBeaver:** Download from [**DBeaver**](https://dbeaver.io/)
 
 ### Visual Basic .NET
-- **Visual Studio:** Download from [Microsoft](https://visualstudio.microsoft.com/)
+- **Visual Studio:** Download from [**Microsoft**](https://visualstudio.microsoft.com/)
 
 ### Assembly
-- **Keil MDK:** Download from [Keil](https://www.keil.com/demo/eval/arm.htm)
-- **MPLAB X:** Download from [Microchip](https://www.microchip.com/mplab/mplab-x-ide)
+- **Keil MDK:** Download from [**Keil**](https://www.keil.com/demo/eval/arm.htm)
+- **MPLAB X:** Download from [**Microchip**](https://www.microchip.com/mplab/mplab-x-ide)
 
 ### Apex
 - **Salesforce Developer Console:** Available in Salesforce setup
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/) with Salesforce Extension Pack
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/) with Salesforce Extension Pack
 
 ### MATLAB
-- **MATLAB:** Download from [MathWorks](https://www.mathworks.com/products/matlab.html)
+- **MATLAB:** Download from [**MathWorks**](https://www.mathworks.com/products/matlab.html)
 
 ### Delphi/Object Pascal
-- **RAD Studio:** Download from [Embarcadero](https://www.embarcadero.com/products/rad-studio)
-- **Lazarus:** Download from [Lazarus](https://www.lazarus-ide.org/)
+- **RAD Studio:** Download from [**Embarcadero**](https://www.embarcadero.com/products/rad-studio)
+- **Lazarus:** Download from [**Lazarus**](https://www.lazarus-ide.org/)
 
 ### Fortran
-- **Photran:** Download from [Eclipse](https://www.eclipse.org/photran/)
-- **Intel Fortran Compiler:** Download from [Intel](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/fortran-compiler.html)
+- **Photran:** Download from [**Eclipse**](https://www.eclipse.org/photran/)
+- **Intel Fortran Compiler:** Download from [**Intel**](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/fortran-compiler.html)
 
 ### TypeScript
-- **WebStorm:** Download from [JetBrains](https://www.jetbrains.com/webstorm/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **WebStorm:** Download from [**JetBrains**](https://www.jetbrains.com/webstorm/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Scratch
-- **Scratch Desktop:** Download from [Scratch](https://scratch.mit.edu/download)
+- **Scratch Desktop:** Download from [**Scratch**](https://scratch.mit.edu/download)
 
 ### Julia
-- **Juno:** Download from [Juno](https://junolab.org/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **Juno:** Download from [**Juno**](https://junolab.org/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Erlang
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/) with Erlang plugin
-- **Erlang IDE:** Download from [Erlide](https://erlide.org/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/) with Erlang plugin
+- **Erlang IDE:** Download from [**Erlide**](https://erlide.org/)
 
 ### Crystal
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
-- **Sublime Text:** Download from [Sublime Text](https://www.sublimetext.com/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
+- **Sublime Text:** Download from [**Sublime Text**](https://www.sublimetext.com/)
 
 ### Tcl
-- **ActiveTcl:** Download from [ActiveState](https://www.activestate.com/products/tcl/)
-- **Komodo Edit:** Download from [ActiveState](https://www.activestate.com/products/komodo-edit/)
+- **ActiveTcl:** Download from [**ActiveState**](https://www.activestate.com/products/tcl/)
+- **Komodo Edit:** Download from [**ActiveState**](https://www.activestate.com/products/komodo-edit/)
 
 ### Solidity
-- **Remix IDE:** Use online at [Remix](https://remix.ethereum.org/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **Remix IDE:** Use online at [**Remix**](https://remix.ethereum.org/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Kotlin Native
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **CLion:** Download from [JetBrains](https://www.jetbrains.com/clion/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **CLion:** Download from [**JetBrains**](https://www.jetbrains.com/clion/)
 
 ### Elm
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Nim
-- **Nimble:** Use online at [Nimble](https://nimble-dir.github.io/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **Nimble:** Use online at [**Nimble**](https://nimble-dir.github.io/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Verilog
-- **ModelSim:** Download from [Mentor](https://www.mentor.com/products/fv/modelsim/)
-- **Vivado:** Download from [Xilinx](https://www.xilinx.com/products/design-tools/vivado.html)
+- **ModelSim:** Download from [**Mentor**](https://www.mentor.com/products/fv/modelsim/)
+- **Vivado:** Download from [**Xilinx**](https://www.xilinx.com/products/design-tools/vivado.html)
 
 ### ABAP
-- **SAP NetWeaver:** Download from [SAP](https://developers.sap.com/topics/abap.html)
+- **SAP NetWeaver:** Download from [**SAP**](https://developers.sap.com/topics/abap.html)
 
 ### D
-- **VisualD:** Download from [VisualD](http://rainers.github.io/visuald/)
-- **DlangIDE:** Download from [DlangIDE](https://github.com/buggins/dlangide)
+- **VisualD:** Download from [**VisualD**](http://rainers.github.io/visuald/)
+- **DlangIDE:** Download from [**DlangIDE**](https://github.com/buggins/dlangide)
 
 ### Reason
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Ballerina
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/) with Ballerina plugin
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/) with Ballerina plugin
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/) with Ballerina plugin
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/) with Ballerina plugin
 
 ### Jasmine
-- **WebStorm:** Download from [JetBrains](https://www.jetbrains.com/webstorm/)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **WebStorm:** Download from [**JetBrains**](https://www.jetbrains.com/webstorm/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### F#
-- **Visual Studio:** Download from [Microsoft](https://visualstudio.microsoft.com/)
-- **Rider:** Download from [JetBrains](https://www.jetbrains.com/rider/)
+- **Visual Studio:** Download from [**Microsoft**](https://visualstudio.microsoft.com/)
+- **Rider:** Download from [**JetBrains**](https://www.jetbrains.com/rider/)
 
 ### PureScript
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
-- **Atom:** Download from [Atom](https://atom.io/)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
+- **Atom:** Download from [**Atom**](https://atom.io/)
 
 ### Vala
-- **GNOME Builder:** Download from [GNOME](https://wiki.gnome.org/Apps/Builder)
-- **VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
+- **GNOME Builder:** Download from [**GNOME**](https://wiki.gnome.org/Apps/Builder)
+- **VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
 
 ### Racket
-- **DrRacket:** Download from [Racket](https://racket-lang.org/)
+- **DrRacket:** Download from [**Racket**](https://racket-lang.org/)
 
 ### OCaml
-- **OCaml Plugin for VSCode:** Download from [Microsoft](https://code.visualstudio.com/)
-- **IntelliJ IDEA:** Download from [JetBrains](https://www.jetbrains.com/idea/) with OCaml plugin
+- **OCaml Plugin for VSCode:** Download from [**Microsoft**](https://code.visualstudio.com/)
+- **IntelliJ IDEA:** Download from [**JetBrains**](https://www.jetbrains.com/idea/) with OCaml plugin
 
 ### Scheme
-- **DrRacket:** Download from [Racket](https://racket-lang.org/)
-- **Emacs with Geiser:** Download from [GNU](https://www.gnu.org/software/emacs/) and install the Geiser package from [Geiser](https://geiser.nongnu.org/)
+- **DrRacket:** Download from [**Racket**](https://racket-lang.org/)
+- **Emacs with Geiser:** Download from [**GNU**](https://www.gnu.org/software/emacs/) and install the Geiser package from [**Geiser**](https://geiser.nongnu.org/)
 
 For detailed installation instructions, visit the respective download pages linked above. Follow the provided guides to set up your development environment and start coding.
 
 
 ## Contributing
-We welcome contributions! Please read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please read our [**Code of Conduct**](CODE_OF_CONDUCT.md) and [**Contributing Guidelines**](CONTRIBUTING.md) for details.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [**LICENSE**](LICENSE) file for details.
