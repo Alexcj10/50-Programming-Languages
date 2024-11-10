@@ -39,5 +39,5 @@ Its rich ecosystem includes tools like DartPad and a strong set of libraries, wi
 - **[Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)** - A comprehensive course on Dart programming for beginners.
 - **[Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)** - A playlist covering the basics and fundamentals of Dart for Flutter.
 - **[Dart Tutorial - YouTube Playlist](https://www.youtube.com/playlist?list=PLeKQz1VjpjFqqXLvQ8rTnYxZcUqEGA0dm)** - A comprehensive playlist on Dart programming.
-- **[Learn Dart Programming](https://www.youtube.com/playlist?list=PLxNaAkB7c-hVSEtpjFpZvy4Kc9fV00Yyf)** - Step-by-step guide to learning Dart programming.
-- **[Dart and Flutter - Full Course](https://www.youtube.com/watch?v=dl-dlYUf6TM)** - An extensive guide on Dart and Flutter for beginners
+- **[Learn Dart Programming](https://youtube.com/playlist?list=PLWCLxMult9xeeY5NDx4JIWqEnXnlG3fKc&si=uFnh-_A2fSkouBsD)** - Step-by-step guide to learning Dart programming.
+- **[Dart and Flutter - Full Course](https://youtu.be/71xacArT_70?si=Yj0sUAZR-_5t69y7)** - An extensive guide on Dart and Flutter for beginners
